@@ -1,0 +1,7 @@
+{
+  "name": "Democra'App",
+  "description": "Plateforme citoyenne d'arbitrage direct, vote hebdomadaire des lois, gestion personnalisée de l'impôt et arbitrage diplomatique international.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
